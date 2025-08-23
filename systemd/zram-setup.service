@@ -1,0 +1,14 @@
+[Unit]
+Description=One-shot zram setup
+DefaultDependencies=no
+Before=swap.target
+Wants=swap.target
+
+[Service]
+Type=oneshot
+ExecStart=/usr/local/bin/zram-setup.sh
+ExecStop=/usr/local/bin/zram-setup.sh stop
+RemainAfterExit=yes
+
+[Install]
+WantedBy=multi-user.target
