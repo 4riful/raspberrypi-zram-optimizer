@@ -49,7 +49,7 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/raspberrypi-zram-optimizer.git
+git clone https://github.com/4riful/raspberrypi-zram-optimizer.git
 cd raspberrypi-zram-optimizer
 ```
 
@@ -242,7 +242,7 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 
 ```bash
 # Clone with submodules
-git clone --recursive https://github.com/yourusername/raspberrypi-zram-optimizer.git
+git clone --recursive https://github.com/4riful/raspberrypi-zram-optimizer.git
 
 # Install development dependencies
 # (Add any development tools here)
@@ -266,9 +266,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues** - [GitHub Issues](https://github.com/yourusername/raspberrypi-zram-optimizer/issues)
-- **Discussions** - [GitHub Discussions](https://github.com/yourusername/raspberrypi-zram-optimizer/discussions)
-- **Wiki** - [Project Wiki](https://github.com/yourusername/raspberrypi-zram-optimizer/wiki)
+- **Issues** - [GitHub Issues](https://github.com/4riful/raspberrypi-zram-optimizer/issues)
+- **Discussions** - [GitHub Discussions](https://github.com/4riful/raspberrypi-zram-optimizer/discussions)
+- **Wiki** - [Project Wiki](https://github.com/4riful/raspberrypi-zram-optimizer/wiki)
 
 ---
 
@@ -276,7 +276,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Made with ❤️ for the Raspberry Pi community**
 
-[![Star on GitHub](https://img.shields.io/github/stars/yourusername/raspberrypi-zram-optimizer?style=social)](https://github.com/yourusername/raspberrypi-zram-optimizer)
-[![Fork on GitHub](https://img.shields.io/github/forks/yourusername/raspberrypi-zram-optimizer?style=social)](https://github.com/yourusername/raspberrypi-zram-optimizer)
+[![Star on GitHub](https://img.shields.io/github/stars/4riful/raspberrypi-zram-optimizer?style=social)](https://github.com/4riful/raspberrypi-zram-optimizer)
+[![Fork on GitHub](https://img.shields.io/github/forks/4riful/raspberrypi-zram-optimizer?style=social)](https://github.com/4riful/raspberrypi-zram-optimizer)
 
 </div>
