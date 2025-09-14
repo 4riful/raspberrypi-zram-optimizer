@@ -281,3 +281,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [![Fork on GitHub](https://img.shields.io/github/forks/4riful/raspberrypi-zram-optimizer?style=social)](https://github.com/4riful/raspberrypi-zram-optimizer)
 
 </div>
+Pair Extraordinaire demo
