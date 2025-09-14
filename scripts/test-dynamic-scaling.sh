@@ -21,7 +21,7 @@ fi
 
 # Function to show current status
 show_status() {
-    echo -e "\n${GREEN}📊 Current Status:${NC}"
+    echo -e "\n${GREEN} Current Status:${NC}"
     echo "Memory:"
     free -h
     echo -e "\nZRAM:"
