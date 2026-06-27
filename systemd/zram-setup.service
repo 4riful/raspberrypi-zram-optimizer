@@ -1,12 +1,11 @@
 [Unit]
-Description=One-shot zram setup
-DefaultDependencies=no
+Description=ZRAM compressed swap setup
 Before=swap.target
 Wants=swap.target
 
 [Service]
 Type=oneshot
-ExecStart=/usr/local/bin/zram-setup.sh
+ExecStart=/usr/local/bin/zram-setup.sh start
 ExecStop=/usr/local/bin/zram-setup.sh stop
 RemainAfterExit=yes
 
